@@ -1,0 +1,17 @@
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.exe
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.deps.json
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.runtimeconfig.json
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.dll
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.pdb
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.csproj.AssemblyReference.cache
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.Form1.resources
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.csproj.GenerateResource.cache
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.AssemblyInfoInputs.cache
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.AssemblyInfo.cs
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.csproj.CoreCompileInputs.cache
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.dll
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\refint\Dijital_Saat.dll
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.pdb
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.genruntimeconfig.cache
+C:\Users\yalci\source\repos\udemyMuratYucedag\Dijital_Saat\obj\Debug\net6.0-windows\ref\Dijital_Saat.dll
